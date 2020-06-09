@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "sam",
+      "location": "wales",
+      "likes": 100
+    },
+    {
+      "id": 3,
+      "name": "bill",
+      "location": "india",
+      "likes": 100
+    },
+    {
+      "id": 4,
+      "name": "nill",
+      "location": "wales",
+      "likes": 100
+    },
+    {
+      "id": 5,
+      "name": "sid",
+      "location": "india",
+      "likes": 100
+    },
+    {
+      "id": 6,
+      "name": "kid",
+      "location": "wales",
+      "likes": 100
+    },
+    {
+      "name": "Cj",
+      "location": "la",
+      "id": 7,
+      "likes": 100
+    },
+    {
+      "name": "Shona",
+      "location": "la",
+      "id": 8,
+      "likes": 100
+    },
+    {
+      "name": "Shona",
+      "location": "la",
+      "id": 9,
+      "likes": 100
+    },
+    {
+      "name": "bill",
+      "location": "la",
+      "likes": "17",
+      "id": 11
+    },
+    {
+      "name": "sasdadada",
+      "location": "wales",
+      "likes": "25252525",
+      "id": 12
+    },
+    {
+      "name": "sadada",
+      "location": "la",
+      "likes": "100",
+      "id": 14
+    },
+    {
+      "name": "vallllllll",
+      "location": "la",
+      "likes": "200000",
+      "id": 15
+    }
+  ]
+}
